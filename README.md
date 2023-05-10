@@ -1,6 +1,16 @@
+ORIGINAL OPERATING SYSTEM
+-----
+This repo was a capstone project for the class, ECE 391, tasked with creating a fully functional operating system from the ground up over a three month period. I completed this project with only one other person, and ended up with a %. All of the code my partner and I wrote are in the student-distrib folder. Unforunately, I do not have an emulator in place, but an example of another person's output is linked below. 
+
+https://brokeos.site/
+
 ECE 391 COURSE DESCRIPTION
 -----
 https://ece.illinois.edu/academics/courses/ece391
+
+ECE 391 is required for Computer Engineering majors and is also one of the five Advanced Core electives for Electrical Engineering majors. The course is a prerequisite for a dozen advanced undergraduate courses in ECE and CS that serve as technical electives. The goal of the course is to develop the programming and problem solving skills required for further study in computer systems engineering. By the end of the course students should have a solid understanding of how a computer system works and what it does, and the skills necessary to analyze, design, test and debug effective computer software. The course is laboratory based and includes both individual and team projects.
+
+Specific topics include assembly language programming, interrupts and exceptions, the connection between assembly language and high-level programming languages, resource management, virtualization of CPU and memory, and asynchronous and synchronous interactions. The course covers the programming interface provided by modern operating systems, including device, file system, process, memory management, thread and signal abstractions.
 
 ACADEMIC INTEGRITY
 -----
