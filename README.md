@@ -1,6 +1,6 @@
 MAKING AN OPERATING SYSTEM FROM SCRATCH
 -----
-This repo was a capstone project for the class, ECE 391, tasked with creating a fully functional operating system from the ground up over a three month period. I completed this project with only one other person, and ended up with a %. All of the code my partner and I wrote are in the student-distrib folder. Unforunately, I do not have an emulator in place, but an example of another person's output is linked below. 
+This repo was a capstone project for the class, ECE 391, tasked with creating a fully functional operating system from the ground up over a three month period. I completed this project with only one other person and ended up with a %. All of the code my partner and I wrote are in the student-distrib folder. Unforunately, I do not have an emulator in place, but an example of another person's output is linked below. 
 
 https://brokeos.site/
 
