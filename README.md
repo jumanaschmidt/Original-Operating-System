@@ -1,3 +1,7 @@
+ECE 391 COURSE DESCRIPTION
+-----
+https://ece.illinois.edu/academics/courses/ece391
+
 ACADEMIC INTEGRITY
 -----
 Please review the University of Illinois Student Code before starting,
